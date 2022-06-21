@@ -1,6 +1,6 @@
 # MetodoCesar
 
-###Descripción
+###Descripcion
 
 Este programa utiliza un algoritmo dedicado para poder descifrar códigos encriptados basados en el método de encriptación César gracias a la cantidad estadística que las vocales se repiten en el alfabeto, siendo estas las siguientes.
 
@@ -26,7 +26,7 @@ Para esto se utiliza un método de encriptación básico que prácticamente reco
 
 -----------------------------
 
-###Instalación de software requerido
+###Instalacion de software requerido
 
 Para instalar python en Windows sigase las indicaciones del siguiente link:
 
@@ -46,7 +46,7 @@ Una vez instalado Git, abra la consola de su preferencia y escriba el comando ´
 
 ---------------------------------------
 
-###Ejecución
+###Ejecucion
 
 Para correr el proyecto se debe ejecutar el archivo Main.py
 
