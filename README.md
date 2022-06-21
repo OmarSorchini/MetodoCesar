@@ -17,3 +17,7 @@ Para poder usar este repositorio de manera local sigase el siguiente link:
 https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git
 
 Una vez instalado Git, abra la consola de su preferencia y escriba el comando "git clone https://github.com/OmarSorchini/MetodoCesar.git"
+
+---------------------------------------
+
+Este programa utiliza un algoritmo dedicado para poder descifrar códigos encriptados basados en el método de encriptación César gracias a la cantidad estadística que las vocales se repiten en el alfabeto
